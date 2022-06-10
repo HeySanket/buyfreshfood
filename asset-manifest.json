@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/buyfreshfood/static/css/main.434d85ca.css",
+    "main.js": "/buyfreshfood/static/js/main.4f614781.js",
+    "static/js/236.4658ae0d.chunk.js": "/buyfreshfood/static/js/236.4658ae0d.chunk.js",
+    "static/js/703.7d8d28a2.chunk.js": "/buyfreshfood/static/js/703.7d8d28a2.chunk.js",
+    "static/js/198.eebdb850.chunk.js": "/buyfreshfood/static/js/198.eebdb850.chunk.js",
+    "index.html": "/buyfreshfood/index.html",
+    "main.434d85ca.css.map": "/buyfreshfood/static/css/main.434d85ca.css.map",
+    "main.4f614781.js.map": "/buyfreshfood/static/js/main.4f614781.js.map",
+    "236.4658ae0d.chunk.js.map": "/buyfreshfood/static/js/236.4658ae0d.chunk.js.map",
+    "703.7d8d28a2.chunk.js.map": "/buyfreshfood/static/js/703.7d8d28a2.chunk.js.map",
+    "198.eebdb850.chunk.js.map": "/buyfreshfood/static/js/198.eebdb850.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.4f614781.js"
+  ]
+}
