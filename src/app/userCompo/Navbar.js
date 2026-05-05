@@ -325,7 +325,7 @@ const Navbar = ({ setLoginTrueApp }) => {
               style={{ cursor: "pointer" }}
               onClick={goToDashboard}
             >
-              Buy Fresh Food
+              Buy_Fresh_Food
             </Typography>
             <Box sx={{ flexGrow: 1 }} />
             <Box sx={{ display: { xs: "none", md: "flex" } }}>
